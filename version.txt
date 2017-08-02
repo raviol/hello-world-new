@@ -1,0 +1,5 @@
+Project-Name : app-jelastic-helloworld
+Project-Version : trunk-SNAPSHOT
+Revision : 1d6e6797362511c2e7d37a1a58f1dad5496d3213
+Build-Number : 44
+Build-Date : 2017-08-01 19:51 UTC
